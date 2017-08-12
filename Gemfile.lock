@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-hacker (0.0.4)
+    jekyll-theme-time-machine (0.0.4)
       jekyll (~> 3.3)
 
 GEM
@@ -51,7 +51,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll-theme-hacker!
+  jekyll-theme-time-machine!
 
 BUNDLED WITH
    1.15.3
